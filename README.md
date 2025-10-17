@@ -6,7 +6,7 @@
 
 **The Blind Man's Eye** is an innovative assistive technology system designed to help visually impaired individuals navigate their environment safely and independently. This project combines computer vision with spatial audio to create an affordable, wearable navigation aid.
 
-[53]
+
 
 ## 🎯 Project Overview
 
